@@ -42,9 +42,6 @@ Shows the dashboard with:
 - Motivational quote
 ![Screenshot 2025-06-28 004047](https://github.com/user-attachments/assets/2752743a-626b-4e47-9120-aa636653dd47)
 
-![Flask Productivity App Screenshot](Screenshot 2025-06-28 004047.png)
-
-
 
 ---
 
@@ -53,5 +50,4 @@ Shows the dashboard with:
 - [OpenWeatherMap](https://openweathermap.org/api)
 - [Quotable API](https://github.com/lukePeavey/quotable)
 
----
 
